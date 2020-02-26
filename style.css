@@ -1,0 +1,195 @@
+* {
+	outline: 1px dotted red;
+}
+.container{
+	width: 970px;
+	min-height: 1029px;
+	background-color: #2f1d23
+
+}
+
+	.header{
+	width: 970px;
+	background-color: #f8f8f8;
+	display: inline-block;
+	}
+
+
+		.header ul li{
+		display: inline-block;
+		font-size: 24px;
+		padding: 10px;
+		}
+		#jayne{
+		font-size: 33px;	
+		}
+
+	.main{
+	
+	width: 970px;
+	background-color: #2f1d23;
+	display: inline-block;
+
+	
+
+	}
+
+		.top{
+		min-height: 307px;
+		width: 970px;
+
+		
+		
+		}
+			.photo{
+			width: 420px;
+			padding: 10px;
+			background-color: #f8f8f8;
+			display: inline-block;
+			
+			}
+
+			.right{
+			background-color: #f8f8f8;
+			width: 506px;
+			display: inline-block;
+			margin-left: 20px;
+			}
+
+				.about{
+				background-color: #8a8895;
+				color: #f8f8f8;
+				padding: 10px;
+				font-family: sans-serif;
+				
+				}
+
+			.body{
+			color: black;
+			padding: 10px;
+			}
+
+		.bottom{
+		
+		width: 970px;
+		background-color: #2f1d23;
+		display: inline-block;
+		
+		
+
+		}
+			.box1{
+			min-height: 588px;
+			width: 297px;
+			background-color: #f8f8f8;
+			display: inline-block;
+			margin-right: 5px;
+			vertical-align: top;
+
+		}
+
+
+		.left{
+			text-align: center;
+		}
+
+			.screenshots{
+				width: 297px;
+			}
+
+			.logos{
+				width: 15%;
+				margin: 5px;
+				
+			}
+				
+				.logos-top{
+					margin: 0 auto;
+
+					/**/
+					/*text-align: center;*/
+					
+
+				}
+
+				.logos-bottom{
+					
+					text-align: left;
+					
+					
+
+				}
+
+				.button{
+					text-align: center;
+					background-color: #407D61;
+					border-radius: 5px;
+					color: white;
+				}
+			}
+
+
+			.box2{min-height: 588px;
+			width: 297px;
+			background-color: #f8f8f8;
+			display: inline-block;
+			margin-left: 4px;
+			margin-right: 5px;
+
+			}
+			.box3{
+			min-height: 588px;
+			width: 297px;
+			background-color: #f8f8f8;
+			display: inline-block;
+			margin-left: 5px;
+			
+
+			}
+
+
+
+	.footer{
+	
+	background-color: white;
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;
+
+	}
+
+		.contact-info{
+			font-size: 50px;
+			
+			
+		}
+
+		.social-media{
+			
+			
+		}
+
+			.image{
+			width: 25px;
+			vertical-align: middle;
+			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
